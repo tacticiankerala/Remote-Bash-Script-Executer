@@ -2,6 +2,8 @@
 *.rbc
 .bundle
 .config
+config.rb
+output/*
 coverage
 InstalledFiles
 lib/bundler/man
